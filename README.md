@@ -2,7 +2,7 @@
 
 The codes contained in this file are done in Jupyter notebook using python programming language.
 
-A demodata by sklearn is used to experiement the price prediction algorithm or model.
+A demodata by sklearn is used to experiment the price prediction algorithm or model.
 
 It is about price prediction on the Boston house dataset and factors that affect/determine the prices.
 
